@@ -24,4 +24,8 @@ node traversal_df_recursion.js
     ```
 
 
-    - Has path problem with acylical graph
+    - Has path problem with undirected graph
+
+    ```
+    node has_path_undirecrted_graph_df.js
+    ```
