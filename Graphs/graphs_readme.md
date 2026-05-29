@@ -29,3 +29,9 @@ node traversal_df_recursion.js
     ```
     node has_path_undirecrted_graph_df.js
     ```
+
+3. Connected Components Count
+
+    ```
+    node connected_components_count.js
+    ```
