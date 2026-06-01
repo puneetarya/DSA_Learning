@@ -35,3 +35,8 @@ node traversal_df_recursion.js
     ```
     node connected_components_count.js
     ```
+
+4. size of largest connected component
+    ```
+    node size_of_largest_connected_component.js
+    ```
